@@ -1,3 +1,4 @@
+![MasterHead](https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png)
 <h1 align="center">Hi 👋, I'm Dhammadeep Salwe</h1>
 <h3 align="center">B.Tech IT Graduate |Machine Learning & Web Development | C++, Python, React</h3>
 
@@ -18,4 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dppzee0201&show_icons=true&locale=en" alt="dppzee0201" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dppzee0201&" alt="dppzee0201" /></p>
