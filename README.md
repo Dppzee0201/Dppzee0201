@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Dhammadeep Salwe</h1>
 <h3 align="center">B.Tech IT Graduate | Machine Learning & Web Development | C++, Python, React</h3>
 
-- 🔭 I’m currently working on **Sleep Quality Analysis | Machine learning**
+- 🔭 I’m currently working on **EDA | Machine learning**
 
-- 🌱 I’m currently learning **Machine Learning Algorithms, Full Stack Web Development (MERN)**
+- 🌱 Exploring  **Machine Learning Algorithms, Pyspark, Cloud**
 
 - 👯 I’m looking to collaborate on **Machine Learning & MERN Stack projects**
 
