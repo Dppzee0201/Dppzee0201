@@ -45,5 +45,5 @@
 ---
 
 ### 📫 How to reach me
-- 📧 [Mail here](mailto:salwedhammadeep@gmail.com)  
+- 📧 [salwedhammadeep@gmail.com](mailto:salwedhammadeep@gmail.com)  
 
