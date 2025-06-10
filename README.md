@@ -1,20 +1,49 @@
-![MasterHead](https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png)
 <h1 align="center">Hi 👋, I'm Dhammadeep Salwe</h1>
-<h3 align="center">B.Tech IT Graduate | Machine Learning & Web Development | C++, Python, React</h3>
+<h3 align="center">A passionate Data Engineer | Problem Solver | Tech Explorer</h3>
 
-- 🔭 I’m currently working on **EDA | Machine learning**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dppzee0201&label=Profile%20views&color=0e75b6&style=flat" alt="dppzee0201" />
+</p>
 
-- 🌱 Exploring  **Machine Learning Algorithms, Pyspark, Cloud**
+---
 
-- 👯 I’m looking to collaborate on **Machine Learning & MERN Stack projects**
+### 👨‍💻 About Me
+- 🎓 BTech Graduate from VIIT, Pune   
+- 💡 I enjoy solving real-world problems with **Python, PySpark, AWS, and SQL**  
+- 🛠️ Skilled in building **ETL pipelines, data ingestion workflows, and automating data quality checks**  
+- 🌱 Learning: **Azure | Stream processing | Advanced PySpark**  
+- 📄 Published **2 conference papers** and contributed to academic + industry-sponsored projects  
+- 🌐 Tech enthusiast who loves to explore **cloud services, APIs, and scalable data architecture**
 
-- 🤝 I’m looking for help with **contributing to open source projects**
+---
 
-- 📫 Reach me :**salwedhammadeep@gmail.com**
+### 🧰 Tech Stack & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-E34A86?style=flat&logo=apachespark&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Redshift](https://img.shields.io/badge/-Redshift-8C4FFF?style=flat&logo=amazon-redshift&logoColor=white)
+![Glue](https://img.shields.io/badge/-Glue-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dppzee0201&show_icons=true&locale=en&layout=compact" alt="dppzee0201" /></p>
+### 📌 Featured Projects
+- 🔹 **Crop Prediction System**  
+  Machine Learning based system that recommends crops & fertilizers based on soil and weather data.
 
+- 🔹 **Shipping Logistics ETL (AWS)**  
+  Built serverless ETL with Lambda, S3, Glue, and Redshift for cargo capacity planning.
+
+- 🔹 **Healthcare CRM & SharePoint Integration**  
+  Automated ingestion from Salesforce Bulk API and Microsoft Graph API, with dynamic transformation and DQ reporting.
+
+- 🔹 **KGamify – Quiz App**  
+  Industry-sponsored project with interactive learning and reward system; contributed to frontend and DB logic.
+---
+
+### 📫 How to reach me
+- 📧 [Mail here](mailto:salwedhammadeep@gmail.com)  
 
